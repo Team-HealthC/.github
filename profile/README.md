@@ -1,5 +1,5 @@
 <h1>HealthC</h1>
-<p align="center"><img src="https://github.com/Team-HealthC/HealthC_Android/blob/main/image/icon.png"/ width="50%"></p>	   
+<p align="center"><img src="https://github.com/Team-HealthC/HealthC_Android/blob/main/image/icon.png"/ width=256></p>	   
 
 <p align="center">
 	<h3 align="center">
